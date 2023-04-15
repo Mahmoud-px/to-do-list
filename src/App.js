@@ -69,7 +69,7 @@ function App() {
 
 	return (
 		<div className="App">
-			<h1>Welcome, Mahmoud</h1>
+			<h1>Welcome, Mahmoudd</h1>
 			<h4>Your tasks</h4>
 
 			<div className="todos">
