@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-const api_base = 'https://1-to-do.firebaseapp.com';
+const api_base = 'https://1-to-do.web.app';
 
 function App() {
 	const [todos, setTodos] = useState([]);
@@ -69,7 +69,7 @@ function App() {
 
 	return (
 		<div className="App">
-			<h1>Welcome, Mahmoudd</h1>
+			<h1>Welcome, Mahmoud</h1>
 			<h4>Your tasks</h4>
 
 			<div className="todos">
