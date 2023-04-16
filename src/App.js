@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-const api_base = 'https://1-to-do.web.app';
+const api_base = 'https://difficult-tank-top-frog.cyclic.app';
 
 function App() {
 	const [todos, setTodos] = useState([]);
