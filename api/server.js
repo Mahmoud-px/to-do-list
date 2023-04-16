@@ -5,8 +5,6 @@ require('dotenv').config();
 const Todo = require('./models/Todo');
 
 
-
-
 const app = express();
 
 app.use(express.json());
