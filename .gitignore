@@ -27,3 +27,4 @@ api/.env
 .firebase/hosting.YnVpbGQ.cache
 .github/workflows/firebase-hosting-merge.yml
 .github/workflows/firebase-hosting-pull-request.yml
+firebase.json
