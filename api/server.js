@@ -52,4 +52,4 @@ app.get('/todo/complete/:id', async (req, res) => {
 })
 
 
-app.listen(443 || 8080, () => {console.log("server started")})
+app.listen(3000, () => {console.log("server started")})
