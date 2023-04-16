@@ -14,7 +14,7 @@ function App() {
 		fetch(api_base + '/todos')
 			.then(res => res.json())
 			.then(data => setTodos(data))
-			.catch((err) => console.error("Error: ", err));
+			.catch((err) => console.log(err));
 	}
 
 	const completeTodo = async (id) => {
