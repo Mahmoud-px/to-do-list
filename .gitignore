@@ -28,3 +28,4 @@ api/.env
 .github/workflows/firebase-hosting-merge.yml
 .github/workflows/firebase-hosting-pull-request.yml
 firebase.json
+firebase-debug.log
